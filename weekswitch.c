@@ -25,5 +25,7 @@ main(){
                     case'7':
                     printf("SATURDAY");
                    break;
+       default:
+          printf("Sorry Invalid Enter.");
     }
 }
